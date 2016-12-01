@@ -1,0 +1,5 @@
+	  
+			  <div class="form-group">
+			 	<p><button class="btn btn-lg btn-success" type="submit" onclick="window.location.href='charging_stations.php'"  name="login_as_user" style="margin-left:-4px">Manage Charging Stations</button>
+				
+			</div>
